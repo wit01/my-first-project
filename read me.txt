@@ -5,7 +5,9 @@ trying to make a game of domino 4x4
 every man for himself
 end x value match
 all aids and tips are welcome
+Most of my code is in English too.
 
+thank you
 
 
 about the game
